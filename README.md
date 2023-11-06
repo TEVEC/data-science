@@ -14,7 +14,7 @@ Neste teste prático, você será desafiado a criar um modelo de detecção de f
 - Organize os dados de pagamento de maneira adequada, incluindo limpeza, tratamento de valores ausentes e formatação dos tipos de dados.
 
 ## Passo 3: Criação do Modelo
-- Crie um modelo de detecção de fraudes utilizando uma árvore de decisão.
+- Crie um modelo de detecção de fraudes utilizando uma árvore de decisão ou algum modelo a sua escolha.
 - Divida o conjunto de dados em conjuntos de treinamento e teste.
 - Treine o modelo no conjunto de treinamento e avalie seu desempenho no conjunto de teste, utilizando métricas como precisão, recall, F1-score e matriz de confusão.
 
